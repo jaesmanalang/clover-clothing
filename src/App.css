@@ -1,5 +1,7 @@
 /* font-family: 'Epilogue', sans-serif;
 font-family: 'Fugaz One', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Open+Sans:wght@300&display=swap');
+
 :root {
   --color-white: #f5f5f5;
   --color-primary: #393e46;
